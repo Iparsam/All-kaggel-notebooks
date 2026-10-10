@@ -1,2 +1,1 @@
-# Diabetes-Model-
-Diabetes  Model with python
+# all kaggele nootbookes
